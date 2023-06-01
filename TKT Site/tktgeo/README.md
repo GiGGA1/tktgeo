@@ -1,2 +1,0 @@
-# tktgeo
-tiketgeo
